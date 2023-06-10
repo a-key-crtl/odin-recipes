@@ -1,0 +1,2 @@
+Recipe project consisting of a main index page including links to three other recipes.
+Recipe showcases description, image, ingredients, and steps to make. gained familarity with git commit/commands, lists, design basic recipe design webpage.
